@@ -1,0 +1,23 @@
+* {
+    text-align: center
+}
+
+.container {
+    margin: 40px auto;
+    text-align: center;
+    width: 40%;
+    border: 5px solid rgba(219, 92, 33);
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgb(160, 79, 3);
+}
+
+.botao {
+    margin-top: 30px;
+}
+
+#igual {
+    margin-top: 30px;
+    width: 10%;
+    height: 6vh;
+    border-radius: 5px;
+}
